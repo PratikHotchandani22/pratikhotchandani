@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikhotchandani22" alt="pratikhotchandani22" /></a> </p>
 
-- 🔭 I’m currently working on [Generative AI Commentary](https://github.com/PratikHotchandani22/GAI_Commentary)
+- 🔭 I’m currently working on [Making probability models of pass and shot](barca-ds.streamlit.app)
 
-- 🌱 I’m currently learning **NLP, TimeSeries Geo-Spatial Data**
+- 🌱 I’m currently learning **NLP(BERT, GPT, LLMs), Computer Vision(Instance Segmentation)**
 
-- 👯 I’m looking to collaborate on [Mood based Movie Recommendation System](https://github.com/PratikHotchandani22/MoodBasedMovieRecommendation)
+- 👯 I’m looking to collaborate on making football statistics more interactive to the general public(barca-ds.streamlit.app)
 
-- 💬 Ask me about **Deep Learning, Supervised Machine Learning, Python**
+- 💬 Ask me about **Deep Learning, Supervised Machine Learning, Python, Football Analytics**
 
 - 📫 How to reach me **pratikhotchandani22@gmail.com**
 
-- ⚡ Fun fact **I like listening to movie scores.**
+- ⚡ Fun fact **I like listening to movie scores and playing football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
