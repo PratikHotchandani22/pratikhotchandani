@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I like listening to movie scores and playing football.**
 
-- Please check out my work - <p align="left"> <a href="https://github.com/PratikHotchandani22?tab=repositories">My repository</p>
+- Please check out my work - <a href="https://github.com/PratikHotchandani22?tab=repositories">My repository </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
