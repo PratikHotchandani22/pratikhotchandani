@@ -13,9 +13,11 @@
 
 - 💬 Ask me about **Deep Learning, Supervised Machine Learning, Python, Football Analytics**
 
-- 📫 How to reach me **pratikhotchandani22@gmail.com**
+- 📫 How to reach me **hotchandani.p@northeastern.edu**
 
 - ⚡ Fun fact **I like listening to movie scores and playing football.**
+
+- Please check out my work - <p align="left"> <a href="https://github.com/PratikHotchandani22?tab=repositories">My repository</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
