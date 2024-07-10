@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Making probability models of pass and shot](barca-ds.streamlit.app)
 
-- 🌱 I’m currently learning **NLP(BERT, GPT, LLMs), Computer Vision(Instance Segmentation)**
+- 🌱 I’m currently learning **GEN AI (Prompt Engineering, RAG)**
 
 - 👯 I’m looking to collaborate on making football statistics more interactive to the general public(barca-ds.streamlit.app)
 
-- 💬 Ask me about **Deep Learning, Supervised Machine Learning, Python, Football Analytics**
+- 💬 Ask me about **Deep Learning, GEN AI, NLP, Python, Football Analytics**
 
 - 📫 How to reach me **hotchandani.p@northeastern.edu**
 
